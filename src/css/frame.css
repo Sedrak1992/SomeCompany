@@ -1,0 +1,13 @@
+.frame{
+    text-align: center;
+    padding-top: 50px;
+}
+.frame > p {
+    color:#AFC0E2;
+    margin-top: 14px;
+}
+
+.frame> h1{
+    color: #fff;
+    font-size: 48px;
+}

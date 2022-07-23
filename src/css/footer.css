@@ -1,0 +1,12 @@
+.FooterImg {
+  padding-top: 20px;
+width: 100%;
+}
+.FooterImg img {
+  position: absolute;
+  bottom: 0;
+  z-index: 1;
+}
+.javascript{
+    left: 336px;
+}

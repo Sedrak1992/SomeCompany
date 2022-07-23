@@ -1,0 +1,17 @@
+.container {
+  width: 299px;
+  height: 160px;
+  background: #0d1423;
+  text-align: center;
+  display: flex;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: #afc0e2;
+}
+.container img {
+  position: absolute;
+  left: 122px;
+  top: -21.5px;
+}

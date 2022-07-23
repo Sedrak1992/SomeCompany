@@ -1,0 +1,8 @@
+.boxFlex{
+    width: 954px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-top: 75px;
+}
+
