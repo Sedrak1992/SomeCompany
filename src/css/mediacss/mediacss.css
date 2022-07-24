@@ -1,0 +1,45 @@
+@media (max-width: 740px) {
+  .App {
+    width: 100%;
+  }
+  .boxFlex {
+    flex-wrap: wrap;
+  }
+  .frame {
+    text-align: center;
+  }
+
+  .boxFlex > :nth-child(1) {
+    margin-top: 64px;
+    width: 90%;
+    margin-bottom: 65px;
+  }
+  .boxFlex > :nth-child(2) {
+    width: 40%;
+  }
+  .boxFlex > :nth-child(3) {
+    width: 40%;
+  }
+  .container img {
+    left: calc(50% - 27.5px) !important;
+  }
+
+  header {
+    width: 100%;
+    justify-content: space-around;
+  }
+  header > div {
+    width: 30%;
+  }
+  .frame > h1 {
+    font-size: 37px;
+  }
+  .FooterImg > img {
+    width: 80%;
+  }
+
+  .FooterImg {
+    position: relative;
+    width: 100% !important;
+  }
+}

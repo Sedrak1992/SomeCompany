@@ -1,4 +1,5 @@
 import "../../css/frame.css";
+import "../../css/mediacss/mediacss.css"
 
 function Frame() {
   return (

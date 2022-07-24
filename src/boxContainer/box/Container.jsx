@@ -1,4 +1,5 @@
 import "../../../src/css/container.css"
+import "../../css/mediacss/mediacss.css";
 import fop from "../../img/dolar.png"
 
 function Container (){

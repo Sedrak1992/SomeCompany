@@ -1,39 +1,40 @@
 header {
   display: flex;
-width: 954px;
+  width: 90%;
   margin: 0 auto;
   justify-content: space-between;
   align-items: center;
 }
-header > div{
-    width: 30%;
+header > div {
+  width: 30%;
 }
-h2{
-    color: rgb(1,117,255);
+h2 {
+  color: rgb(1, 117, 255);
 }
-samp{
-    color: rgb(0, 194,255);
-    font-weight: 900;
-    font-size: 22px;
+samp {
+  color: rgb(0, 194, 255);
+  font-weight: 900;
+  font-size: 22px;
 }
-.paragraph{
-    color: rgb(1, 117, 255);
-    display: inline;
-    font-size: 22px;
-    font-weight: 900;
+.paragraph {
+  color: rgb(1, 117, 255);
+  display: inline;
+  font-size: 22px;
+  font-weight: 900;
 }
 li {
   list-style: none;
 }
 a {
   text-decoration: none;
-  padding: 0 10px;
+  padding: 0 8px;
   color: #fff;
   font-weight: 800;
 }
 ul {
   display: flex;
+  justify-content: flex-end;
 }
-.textColor{
-    color: rgb(0, 156,255);
+.textColor {
+  color: rgb(0, 156, 255);
 }

@@ -2,13 +2,12 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 .App {
   background: #2b2e34;
-  width: 1192px;
-  height: 100vh;
+  width: 100%;
   margin: 0 auto;
   padding-top: 47px;
   position: relative;

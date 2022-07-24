@@ -15,3 +15,8 @@
   left: 122px;
   top: -21.5px;
 }
+
+.FooterImg {
+    width: 100% !important;
+    bottom: 0;
+  }

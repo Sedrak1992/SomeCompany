@@ -1,12 +1,16 @@
 .FooterImg {
-  padding-top: 20px;
-width: 100%;
+  width: 100%;
+  position: relative;
+  height:323px;
+  background: #2b2e34;
 }
 .FooterImg img {
+  width: 100%;
   position: absolute;
   bottom: 0;
   z-index: 1;
 }
-.javascript{
-    left: 336px;
+.javascript {
+  left: calc(50% - 260px) !important;
+  width: 520px !important;
 }
