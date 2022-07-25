@@ -3,6 +3,7 @@ import Frame from "./company/Frame/Frame.jsx";
 import BoxContainer from "./boxContainer/BoxContainer.jsx";
 import Footer from "./Footer/Footer.jsx";
 import "./css/App.css";
+import "./css/mediacss/mediaMobaile.css"
 
 function App() {
   return (

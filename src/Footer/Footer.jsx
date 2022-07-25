@@ -5,7 +5,7 @@ function Footer (){
     return (
         <div className="FooterImg">
             <img src={imgFooter}/>
-            <img src={javascript_illustration} className="javascript"/>
+            <img className="javascript" src={javascript_illustration} className="javascript"/>
         </div>
     )
 }

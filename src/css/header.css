@@ -38,3 +38,6 @@ ul {
 .textColor {
   color: rgb(0, 156, 255);
 }
+.hamburgerIcon{
+  display: none;
+}
