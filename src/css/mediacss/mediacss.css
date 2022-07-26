@@ -38,6 +38,10 @@
     width: 80%;
   }
 
+  .javascript {
+    width: 380px !important;
+    left: calc(50% - 190px) !important;
+  }
   .FooterImg {
     position: relative;
     width: 100% !important;

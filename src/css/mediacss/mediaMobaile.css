@@ -37,9 +37,9 @@
   .boxFlex .container:nth-child(2) {
     margin-bottom: 64px;
   }
-  .javascript {
-    width: 200px !important;
-    left: calc(50% - 100px) !important;
+ .javascript {
+    width: 300px !important;
+    left: calc(50% - 150px) !important;
   }
   div.FooterImg {
     height: 150px;
